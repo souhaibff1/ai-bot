@@ -1,0 +1,7 @@
+{
+    "token": "your token here",
+    "prefix": "/",
+    "aiChannels": [
+        "id"
+    ]
+}

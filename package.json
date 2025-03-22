@@ -1,0 +1,16 @@
+{
+  "name": "ai-discord-bot",
+  "version": "1.0.0",
+  "description": "بوت ذكاء اصطناعي متطور لديسكورد",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@google/generative-ai": "^0.21.0",
+    "axios": "^1.7.9",
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.4.1",
+    "openai": "^4.28.0"
+  }
+}
